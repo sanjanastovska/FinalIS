@@ -1,0 +1,17 @@
+D:\vs2019\uacsIS\UniversityApplication.Data\bin\Debug\netstandard2.0\BankApplication.Data.deps.json
+D:\vs2019\uacsIS\UniversityApplication.Data\bin\Debug\netstandard2.0\BankApplication.Data.dll
+D:\vs2019\uacsIS\UniversityApplication.Data\bin\Debug\netstandard2.0\BankApplication.Data.pdb
+D:\vs2019\uacsIS\UniversityApplication.Data\obj\Debug\netstandard2.0\BankApplication.Data.csprojAssemblyReference.cache
+D:\vs2019\uacsIS\UniversityApplication.Data\obj\Debug\netstandard2.0\BankApplication.Data.AssemblyInfoInputs.cache
+D:\vs2019\uacsIS\UniversityApplication.Data\obj\Debug\netstandard2.0\BankApplication.Data.AssemblyInfo.cs
+D:\vs2019\uacsIS\UniversityApplication.Data\obj\Debug\netstandard2.0\BankApplication.Data.csproj.CoreCompileInputs.cache
+D:\vs2019\uacsIS\UniversityApplication.Data\obj\Debug\netstandard2.0\BankApplication.Data.dll
+D:\vs2019\uacsIS\UniversityApplication.Data\obj\Debug\netstandard2.0\BankApplication.Data.pdb
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.Data\bin\Debug\netstandard2.0\BankApplication.Data.deps.json
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.Data\bin\Debug\netstandard2.0\BankApplication.Data.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.Data\bin\Debug\netstandard2.0\BankApplication.Data.pdb
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.Data\obj\Debug\netstandard2.0\BankApplication.Data.csprojAssemblyReference.cache
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.Data\obj\Debug\netstandard2.0\BankApplication.Data.AssemblyInfoInputs.cache
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.Data\obj\Debug\netstandard2.0\BankApplication.Data.AssemblyInfo.cs
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.Data\obj\Debug\netstandard2.0\BankApplication.Data.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.Data\obj\Debug\netstandard2.0\BankApplication.Data.pdb

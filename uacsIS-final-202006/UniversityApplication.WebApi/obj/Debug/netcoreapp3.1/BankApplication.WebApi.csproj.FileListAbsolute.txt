@@ -1,0 +1,300 @@
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.WebApi.exe
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.WebApi.deps.json
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.WebApi.runtimeconfig.json
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.WebApi.runtimeconfig.dev.json
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.WebApi.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.WebApi.pdb
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.WebApi.Views.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.WebApi.Views.pdb
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.Data.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.Service.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.Data.pdb
+D:\vs2019\uacsIS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.Service.pdb
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.csprojAssemblyReference.cache
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.AssemblyInfoInputs.cache
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.AssemblyInfo.cs
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.csproj.CoreCompileInputs.cache
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.RazorAssemblyInfo.cache
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.RazorAssemblyInfo.cs
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.TagHelpers.input.cache
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.TagHelpers.output.cache
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.RazorCoreGenerate.cache
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.RazorTargetAssemblyInfo.cache
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.RazorTargetAssemblyInfo.cs
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.Views.pdb
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.csproj.CopyComplete
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\BankApplication.WebApi.StaticWebAssets.Manifest.cache
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\BankApplication.WebApi.StaticWebAssets.xml
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.dll
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.pdb
+D:\vs2019\uacsIS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.genruntimeconfig.cache
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.WebApi.exe
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.WebApi.deps.json
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.WebApi.runtimeconfig.json
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.WebApi.runtimeconfig.dev.json
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.WebApi.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.WebApi.pdb
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.WebApi.Views.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.WebApi.Views.pdb
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.Data.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.Service.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.Data.pdb
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\BankApplication.Service.pdb
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.csprojAssemblyReference.cache
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\BankApplication.WebApi.StaticWebAssets.Manifest.cache
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\BankApplication.WebApi.StaticWebAssets.xml
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.RazorAssemblyInfo.cache
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.RazorAssemblyInfo.cs
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.AssemblyInfoInputs.cache
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.AssemblyInfo.cs
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.TagHelpers.input.cache
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.TagHelpers.output.cache
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.RazorCoreGenerate.cache
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.RazorTargetAssemblyInfo.cache
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.RazorTargetAssemblyInfo.cs
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.Views.pdb
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.csproj.CopyComplete
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.pdb
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.MvcApplicationPartsAssemblyInfo.cs
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.MvcApplicationPartsAssemblyInfo.cache
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+d:\Users\Sanja\Documents\Old Desktop\Codes\_Semesters\VI Semester\Internet Services\IS part 2\Final\uacsIS-final-202006\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll

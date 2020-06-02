@@ -1,0 +1,19 @@
+C:\Users\LEN\source\repos\uacsWCFapplication\uacsWCFapplication\bin\uacsWCFapplication.dll.config
+C:\Users\LEN\source\repos\uacsWCFapplication\uacsWCFapplication\bin\uacsWCFapplication.dll
+C:\Users\LEN\source\repos\uacsWCFapplication\uacsWCFapplication\bin\uacsWCFapplication.pdb
+C:\Users\LEN\source\repos\uacsWCFapplication\uacsWCFapplication\obj\Debug\uacsWCFapplication.csprojAssemblyReference.cache
+C:\Users\LEN\source\repos\uacsWCFapplication\uacsWCFapplication\obj\Debug\uacsWCFapplication.dll
+C:\Users\LEN\source\repos\uacsWCFapplication\uacsWCFapplication\obj\Debug\uacsWCFapplication.pdb
+C:\Users\LEN\Downloads\UACS\6 - Internet Services - Exercises__\uacsWCFapplication\uacsWCFapplication\bin\uacsWCFapplication.dll.config
+C:\Users\LEN\Downloads\UACS\6 - Internet Services - Exercises__\uacsWCFapplication\uacsWCFapplication\bin\uacsWCFapplication.dll
+C:\Users\LEN\Downloads\UACS\6 - Internet Services - Exercises__\uacsWCFapplication\uacsWCFapplication\bin\uacsWCFapplication.pdb
+C:\Users\LEN\Downloads\UACS\6 - Internet Services - Exercises__\uacsWCFapplication\uacsWCFapplication\obj\Debug\uacsWCFapplication.csprojAssemblyReference.cache
+C:\Users\LEN\Downloads\UACS\6 - Internet Services - Exercises__\uacsWCFapplication\uacsWCFapplication\obj\Debug\uacsWCFapplication.dll
+C:\Users\LEN\Downloads\UACS\6 - Internet Services - Exercises__\uacsWCFapplication\uacsWCFapplication\obj\Debug\uacsWCFapplication.pdb
+D:\vs2019\uacsIS\uacsWCFapplication\bin\uacsWCFapplication.dll.config
+D:\vs2019\uacsIS\uacsWCFapplication\bin\uacsWCFapplication.dll
+D:\vs2019\uacsIS\uacsWCFapplication\bin\uacsWCFapplication.pdb
+D:\vs2019\uacsIS\uacsWCFapplication\obj\Debug\uacsWCFapplication.csprojAssemblyReference.cache
+D:\vs2019\uacsIS\uacsWCFapplication\obj\Debug\uacsWCFapplication.csproj.CoreCompileInputs.cache
+D:\vs2019\uacsIS\uacsWCFapplication\obj\Debug\uacsWCFapplication.dll
+D:\vs2019\uacsIS\uacsWCFapplication\obj\Debug\uacsWCFapplication.pdb
